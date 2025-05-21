@@ -21,7 +21,7 @@ Open a terminal in that folder and run:
 python solve_maze.py maze_11x11.txt maze_31x31.txt maze_101x101.txt
 ```
 
-The script will print a comma-separated list of coin sums for each maze, for example:
+The script will print a comma-separated list of coin sums for each maze:
 ```bash
 99,1076,1763
 ```
